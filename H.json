@@ -1,1 +1,25 @@
-
+{
+  "keys": [
+    {
+      "key": "FREEKEY",
+      "status": "active",
+      "expiry": "2026-10-26",
+      "max_dev": 100,
+      "current_devices": 0
+    },
+    {
+      "key": "Ayanokojii",
+      "status": "active",
+      "expiry": "2200-12-30",
+      "max_dev": 1000,
+      "current_devices": 0
+    },
+    {
+      "key": "YIROSHI",
+      "status": "active",
+      "expiry": "2026-11-20",
+      "max_dev": 100,
+      "current_devices": 0
+    }
+  ]
+}
