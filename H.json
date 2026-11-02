@@ -11,7 +11,7 @@
       "key": "Ayanokojii",
       "status": "active",
       "expiry": "2027-12-30",
-      "max_dev": 1000,
+      "max_dev": 100,
       "current_devices": 0
     },
     {
