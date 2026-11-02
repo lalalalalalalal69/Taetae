@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "key": "FREEKEY",
+      "key": "tite",
       "status": "active",
       "expiry": "2026-10-26",
       "max_dev": 100,
@@ -15,7 +15,7 @@
       "current_devices": 0
     },
     {
-      "key": "YIROSHI",
+      "key": "tite",
       "status": "active",
       "expiry": "2026-11-20",
       "max_dev": 100,
